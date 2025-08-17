@@ -1,0 +1,47 @@
+Of course. Here are color suggestions for those UI components, provided for both a dark theme and a light theme.
+
+Dark Theme: "Tokyo Night" 🌃
+This theme uses a dark blue-purple base with vibrant, high-contrast accents, inspired by the neon lights of a city at night.
+
+Window Background: #1A1B26 (A very dark, muted navy blue)
+
+Window Foreground: #A9B1D6 (A soft, desaturated light blue for text)
+
+Selection Background: #3D59A1 (A noticeable but not jarring medium blue)
+
+Focus Border: #7AA2F7 (A bright, vivid blue to clearly show focus)
+
+Status Bar Background: #414868 (A contrasting dark slate blue, also good for active tabs)
+
+Activity Bar Background: #1F2335 (A slightly lighter shade of the main background)
+
+Tabs:
+
+Active Tab: Use the Status Bar Background color (#414868).
+
+Inactive Tabs: Use the Window Background color (#1A1B26).
+
+Tab Border: Use a subtle, slightly lighter border like #2A2B3D.
+
+Light Theme: "Paperwhite" 📄
+This theme is designed for clarity and comfort, using off-whites and soft grays to be easy on the eyes, like reading from a high-quality book.
+
+Window Background: #F2F4F8 (A very light, cool gray, not pure white)
+
+Window Foreground: #344054 (A strong, dark slate gray for high readability)
+
+Selection Background: #D0E0F0 (A soft, muted light blue)
+
+Focus Border: #4472C4 (A classic, confident blue for a clear focus indicator)
+
+Status Bar Background: #E4E7EC (A slightly darker gray to ground the interface)
+
+Activity Bar Background: #FFFFFF (A clean white to separate it from the main view)
+
+Tabs:
+
+Active Tab: Use the Activity Bar Background color (#FFFFFF).
+
+Inactive Tabs: Use the Window Background color (#F2F4F8).
+
+Tab Border: Use a very light, subtle gray like #D0D5DD.
